@@ -24,7 +24,6 @@ import EightHome4 from "../public/projects/eight-home-4.png";
 import Podcast1 from "../public/projects/podcast-1.png";
 import Podcast2 from "../public/projects/podcast-2.png";
 import Podcast from "../public/projects/podcast.png";
-import Studio from "../public/projects/studio.png";
 import webPlayer from "../public/projects/web-player.png";
 import webPlayer1 from "../public/projects/web-player-1.png";
 import webPlayer2 from "../public/projects/web-player-2.png";
@@ -75,12 +74,11 @@ import RealEstate12 from "../public/projects/Real-Estate-Customer-12.png";
 import RealEstate13 from "../public/projects/Real-Estate-Customer-13.png";
 
 // game Blog
-import GameBlog from "../public/projects/game-blog.png";
-import GameBlog1 from "../public/projects/game-blog-1.png";
-import GameBlog2 from "../public/projects/game-blog-2.png";
-import GameBlog3 from "../public/projects/game-blog-3.png";
-import GameBlog4 from "../public/projects/game-blog-4.png";
-import GameBlog5 from "../public/projects/game-blog-5.png";
+import GameBlog from "../public/projects/Game-Blog.png";
+import GameBlog1 from "../public/projects/Game-Blog-1.png";
+import GameBlog3 from "../public/projects/Game-Blog-3.png";
+import GameBlog4 from "../public/projects/Game-Blog-4.png";
+import GameBlog5 from "../public/projects/Game-Blog-5.png";
 
 // Food Recipe
 import FoodRecipe from "../public/projects/food-recipe.png";
@@ -356,7 +354,7 @@ export const projectData = [
     ],
     demoLink: "https://game-blogs-22cbe.web.app/",
     image: GameBlog,
-    imageArray: [GameBlog1, GameBlog2, GameBlog3, GameBlog4, GameBlog5],
+    imageArray: [GameBlog1, GameBlog3, GameBlog4, GameBlog5],
     isDown: false,
   },
   {
