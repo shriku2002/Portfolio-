@@ -81,11 +81,11 @@ import GameBlog4 from "../public/projects/Game-Blog-4.png";
 import GameBlog5 from "../public/projects/Game-Blog-5.png";
 
 // Food Recipe
-import FoodRecipe from "../public/projects/food-recipe.png";
-import FoodRecipe1 from "../public/projects/food-recipe-1.png";
-import FoodRecipe2 from "../public/projects/food-recipe-2.png";
-import FoodRecipe3 from "../public/projects/food-recipe-3.png";
-import FoodRecipe4 from "../public/projects/food-recipe-4.png";
+import FoodRecipe from "../public/projects/Food-Recipe.png";
+import FoodRecipe1 from "../public/projects/Food-Recipe-1.png";
+import FoodRecipe2 from "../public/projects/Food-Recipe-2.png";
+import FoodRecipe3 from "../public/projects/Food-Recipe-3.png";
+import FoodRecipe4 from "../public/projects/Food-Recipe-4.png";
 
 // Old Potfolio
 import OldPortfolio from "../public/projects/Old-Potfolio.png";
