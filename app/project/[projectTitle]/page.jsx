@@ -99,11 +99,4 @@ const page = ({ params: { projectTitle } }) => {
   );
 };
 
-export async function generateStaticParams() {
-  // This function will return all possible project slugs for static generation
-  return projectData.map((item) => ({
-    projectTitle: item.title.toLowerCase().split(" ").join("-"),
-  }));
-}
-
 export default page;
