@@ -192,7 +192,7 @@ export const navItems = [
     icon: <Download />,
     name: "Resume",
     isDownload: true,
-    link: "https://drive.google.com/file/d/1CN7rZwP_WzWkAnRebrICwbq8PyIVR7YD/view?usp=sharing",
+    link: "https://drive.google.com/file/d/14wMTqBT_EQKOp3swbLIzUtoXXWRlImM9/view?usp=sharing",
     target: "_blank",
   },
 ];
